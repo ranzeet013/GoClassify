@@ -1,0 +1,8 @@
+{
+    "batch_size": 64,
+    "learning_rate": 0.001,
+    "num_epochs": 10,
+    "model_architecture": "FC-512-256-10",
+    "optimizer": "Adam",
+    "loss_function": "CrossEntropyLoss"
+}
