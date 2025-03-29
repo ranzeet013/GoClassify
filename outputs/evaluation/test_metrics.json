@@ -1,0 +1,6 @@
+{
+    "test_loss": 0.10033305375902134,
+    "test_accuracy": 97.82,
+    "correct_predictions": 9782,
+    "total_samples": 10000
+}
